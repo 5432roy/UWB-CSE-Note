@@ -47,6 +47,7 @@ Decide the grouping from the content. Prefer a small number of meaningful sectio
 - Use a fenced code block with a language tag for code, commands, and pseudocode.
 - Use inline code for identifiers, file names, and short syntax.
 - Use `$...$` for inline math and `$$...$$` for display math when the notes contain formulas.
+- In CSS581 notes, represent vectors with underlined symbols, such as `$\underline{x}$`, using LaTeX `\underline{...}`. Keep matrices and scalars un-underlined; individual vector components remain scalars.
 - Format mathematical notation with LaTeX inside math delimiters rather than inline code. Use `\mathbb{R}` for the set of real numbers and powers for vector spaces, such as `$\mathbb{R}^2$` and `$\mathbb{R}^{784}$`. Put multi-character exponents in braces and use `\times` for multiplication, such as `$28 \times 28 = 784$`. Preserve the meaning of the supplied notation when formatting it.
 - Bold a term the first time it is defined, and selectively bold key takeaways, important constraints, or central results so they are easy to scan.
 - Use italics selectively for terms being introduced or discussed and for uncertainty notes. Keep emphasis sparse: highlight short phrases rather than whole paragraphs, and avoid combining bold and italics on the same text.
