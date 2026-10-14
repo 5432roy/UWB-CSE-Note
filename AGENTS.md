@@ -16,6 +16,10 @@ CSS581/
   2026-10-07.md
 ```
 
+## CSS599 seminar notes
+
+CSS599 is a seminar course. Each lecture introduces a professor's research. Notes should focus on the research and topics discussed in that seminar, following the same rules for preserving lecture content and uncertainty.
+
 ## Distinguishing notes from conversation
 
 When the user clearly asks a question or addresses the agent instead of providing lecture content, respond in chat without adding the question, instruction, or response to the lecture notes. Add the answer to the notes only if the user explicitly asks to include it.
